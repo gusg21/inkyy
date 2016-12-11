@@ -1,0 +1,7 @@
+þ
+Change the line above to change the big.bat print character
+Block: Û
+Shaded Block: ²
+Light Shaded Block: °
+Dot: ù
+Square Dot: þ
