@@ -1,0 +1,37 @@
+
+Kinesics Text Editor build 153 License Agreement
+
+Joe Lowe
+Aloha, Oregon
+United States
+http://www.turtlewar.org/
+
+2015.09.16
+
+
+This is an agreement made between you (the end user) and Joe Lowe. By using
+this copyrighted software, you agree to be bound by the terms of this
+agreement. If you are unable or unwilling to abide by the terms of this
+agreement, promptly discontinue use of the software and destroy the original
+distribution of the software and all copies that have been made.
+
+1. Permitted Use And Copying
+
+You are permitted to use the software on any number of computers. You are
+permitted to copy the software to permanent storage on any number of computers
+or to removable media: (a) for the purposes of backup or to enable your
+efficient use of the software, and (b) if the copying does not violate the
+distribution restrictions.
+
+2. Distribution
+
+Copying the software to a computer or removable media to allow others to copy
+or use the software is distribution. Distribution is allowed if: (a) others
+are not charged for the removable media or for access to the computer
+containing the software, and (b) the software is distributed in its complete
+original form.
+
+3. Warranty
+
+THE SOFTWARE IS MADE AVAILABLE WITH NO EXPRESS OR IMPLIED WARRANTY, NOT EVEN
+AN IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
