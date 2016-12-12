@@ -1,1 +1,4 @@
-kine hello.txt
+git pull
+git commit
+git add .
+close
