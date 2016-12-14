@@ -9,6 +9,8 @@ doskey alias=doskey $*
 doskey label=title $*
 doskey disp=echo $*
 doskey mkf=copy /y NUL $* >NUL
+doskey show=type $*
+doskey s=type $*
 cls
 call big inkyy %version%
 ncolor -s "==========================================================" -f 8
