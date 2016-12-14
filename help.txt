@@ -6,6 +6,7 @@ big: Display big text
 clearcache (cc): Clears list of commands used
 help: This
 inkyy: Reboot
+kberry [--nogui, --gui]: Compile a kBerry program
 kine (k): Kinesics text editor
 listcache (lc): Lists commands used
 ncolor (n): Display colored text
